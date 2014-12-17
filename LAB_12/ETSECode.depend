@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1418128096 source:c:\documents and settings\administrador\escritorio\etsecode\alumne1.c
+	"funcions.h"
+
+1418128277 h"
+
+1418128209 c:\documents and settings\administrador\escritorio\etsecode\funcions.h
+	<stdio.h>
+	<stdlib.h>
+
+1418128209 
+
+1418128130 source:c:\documents and settings\administrador\escritorio\etsecode\alumne2.c
+	"funcions.h"
+
+1418128277 source:c:\documents and settings\administrador\escritorio\etsecode\main.c
+	"funcions.h"
+
+1418808754 source:/Users/oscarblancocastan/Downloads/ETSECode/alumne1.c
+	"funcions.h"
+
+1418808772 /Users/oscarblancocastan/Downloads/ETSECode/funcions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<ctype.h>
+
+1418763967 source:/Users/oscarblancocastan/Downloads/ETSECode/alumne2.c
+	"funcions.h"
+
+1418812623 source:/Users/oscarblancocastan/Downloads/ETSECode/main.c
+	"funcions.h"
+
+1418812413 source:/Users/oscarblancocastan/Downloads/ETSECode/alumne3.c
+	"funcions.h"
+
+1418813505 source:/Users/oscarblancocastan/Downloads/ETSECode/alumne4.c
+	"funcions.h"
+
