@@ -43,3 +43,24 @@
 1418813505 source:/Users/oscarblancocastan/Downloads/ETSECode/alumne4.c
 	"funcions.h"
 
+1418763967 source:/Users/oscarblancocastan/Code/URV_PROGRAMACIO_C/LAB_12/alumne2.c
+	"funcions.h"
+
+1418817567 /Users/oscarblancocastan/Code/URV_PROGRAMACIO_C/LAB_12/funcions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<ctype.h>
+
+1418812413 source:/Users/oscarblancocastan/Code/URV_PROGRAMACIO_C/LAB_12/alumne3.c
+	"funcions.h"
+
+1418817040 source:/Users/oscarblancocastan/Code/URV_PROGRAMACIO_C/LAB_12/alumne4.c
+	"funcions.h"
+
